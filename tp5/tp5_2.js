@@ -1,6 +1,6 @@
 
 //TRONCOSO DELFINA
-//Video:
+//Video: https://youtu.be/89KJm4J_KbE
 
 let juego;
 
