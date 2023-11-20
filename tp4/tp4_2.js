@@ -1,5 +1,5 @@
 //TRONCOSO DELFINA (91446/3)
-//video:
+//video: https://youtu.be/O_A8ku2ZGD0
 let p=7;
 let impantallas = new Array(p);
 let immariposas =[] ;
